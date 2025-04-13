@@ -12,3 +12,4 @@ C:\Users\Danii\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\refint\Cons
 C:\Users\Danii\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.pdb
 C:\Users\Danii\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.genruntimeconfig.cache
 C:\Users\Danii\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ref\ConsoleApp6.dll
+C:\Users\Danii\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.sourcelink.json

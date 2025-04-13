@@ -17,9 +17,6 @@ namespace ConsoleApp6
 
 		public override void sound() => Console.WriteLine("SHHHHHHHHHHHHHHHHHHHHHH");
 
-		public override void show() => Console.WriteLine(Title);
-
-		public override void desc() => Console.WriteLine(Description); 
 	}
 
 	internal class Microwave : Pristri
@@ -32,10 +29,6 @@ namespace ConsoleApp6
 		}
 
 		public override void sound() => Console.WriteLine("UUUUUUUUUUUUUUUUUUUUUUUUUUUU");
-
-		public override void show() => Console.WriteLine(Title);
-
-		public override void desc() => Console.WriteLine(Description);
 	}
 
 	internal class Car : Pristri
@@ -48,10 +41,6 @@ namespace ConsoleApp6
 		}
 
 		public override void sound() => Console.WriteLine("RRRRRRRRRRRRRRRRRRRRRRR");
-
-		public override void show() => Console.WriteLine(Title);
-
-		public override void desc() => Console.WriteLine(Description);
 	}
 
 	internal class Parohod : Pristri
@@ -64,10 +53,6 @@ namespace ConsoleApp6
 		}
 
 		public override void sound() => Console.WriteLine("RRRRRRRRRRRRRRRRRRRRRRR");
-
-		public override void show() => Console.WriteLine(Title);
-
-		public override void desc() => Console.WriteLine(Description);
 	}
 
 	

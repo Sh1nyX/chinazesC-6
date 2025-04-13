@@ -22,8 +22,8 @@ namespace ConsoleApp6
 
 		public virtual void sound() => Console.WriteLine("...");
 
-		public virtual void show() => Console.WriteLine("...");
+		public virtual void show() => Console.WriteLine(Title);
 
-		public virtual void desc() => Console.WriteLine("...");
+		public virtual void desc() => Console.WriteLine(Description);
 	}
 }

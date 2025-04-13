@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp6
 {
-	internal class Worker
+	internal abstract class Worker
 	{
 		protected string Name { get; set; }
 
